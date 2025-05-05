@@ -1,3 +1,5 @@
 {
-  "liveServer.settings.CustomBrowser": "chrome"
+  "liveServer.settings.CustomBrowser": "chrome",
+  "css.lint.unknownAtRules": "ignore"
+
 }
